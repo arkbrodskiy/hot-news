@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>The hot news: Elijah is a goose</h1>
-      <h3>News for Larina is loading...</h3>
+      <h1>Вот из гоуинг онь... Ларина - это слонь???</h1>
     </div>
   );
 }
